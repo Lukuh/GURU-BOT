@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['254795852211', 'DRACCO', true],
+  ['254784139100', 'ASHTRAY', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "254795852211" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '🍁𝑫𝑹𝑪𝑪𝑶🍁'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.packname = '𝑫𝑹𝑨𝑪𝑲𝑺' 
+global.author = '@𝑨𝑺𝑯𝑻𝑹𝑨𝒀' 
+global.menuvid = 'https://telegra.ph/Tities-04-06-4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*😜'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
