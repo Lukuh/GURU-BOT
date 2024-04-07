@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (DRACCO-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -50,13 +50,17 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
       "value": ""
-    }
+    },
+     "AUTO_BIO":{
+       "description": "change whatsapp bio",
+       "required": false,
+       "value": ""
     },
     "buildpacks": [
     {
