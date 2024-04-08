@@ -39,7 +39,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
 
-📜 *_Quote of the day: ${quote}_* 📜
+📜 *_Quote of the day: ${nobody}* 📜
 
 ┏━💼 _User Info:_ 💼━┓
 ┃ 👾  *User Tag:* ${taguser} 
@@ -90,13 +90,13 @@ function clockString(ms) {
         res = "Good Morning 🌄"
       }
       if (time >= 10) {
-        res = "Good Afternoon ☀️"
+        res = "Good day ☀️"
       }
       if (time >= 15) {
-        res = "Good Afternoon 🌇"
+        res = "Good day 🌇"
       }
       if (time >= 18) {
-        res = "Good Night 🌙"
+        res = "usiku murwa 🌙"
       }
       return res
     }
