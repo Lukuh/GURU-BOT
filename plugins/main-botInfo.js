@@ -56,13 +56,13 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *DRACCO*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://www.instagram.com/wihzird?igsh=ZGJpd3NwNWpuZjQ1
 ▢ GitHub :
   • https://github.com/Guru322
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • t.me/254795852211 (wihzir) 
 ▢ YouTube : 
   • https://youtube.com/@Asliguru
 
