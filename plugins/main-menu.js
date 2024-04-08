@@ -736,13 +736,13 @@ import {
      res = "Good Morning 🌄"
     }
     if (time >= 10) {
-     res = "Good Afternoon ☀️"
+     res = "habari za Afternoon  ☀️"
     }
     if (time >= 15) {
-     res = "Good Afternoon 🌇"
+     res = "Afternoon woza 🌇"
     }
     if (time >= 18) {
-     res = "Good Night 🌙"
+     res = "Night fiti 🌙"
     }
     return res
    }
