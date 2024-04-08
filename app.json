@@ -62,11 +62,6 @@
        "required": false,
        "value": ""
     },
-     "MSG_LOG": {
-     "description": "show messages in log",
-       "required": ""
-       "value": ""
-     },
     "buildpacks": [
     {
       "url": "heroku/nodejs"
