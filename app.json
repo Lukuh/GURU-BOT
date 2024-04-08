@@ -57,11 +57,6 @@
       "required": false,
       "value": ""
     },
-     "AUTO_BIO":{
-       "description": "change whatsapp bio",
-       "required": false,
-       "value": ""
-    },
     "buildpacks": [
     {
       "url": "heroku/nodejs"
